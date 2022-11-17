@@ -1,3 +1,5 @@
 AmongUs
 *.dll
 build.sh
+bin/
+obj/
